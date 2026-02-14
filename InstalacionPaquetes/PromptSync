@@ -1,0 +1,11 @@
+const loko = require('prompt-sync')();
+
+let nombre = "Mario Andres Calle";
+let edad = 39;
+const pais = "Colombia";
+
+console.log("Mi nombre es", nombre);
+console.log("Tengo", edad, "años");
+console.log("Soy de", pais);
+console.log("hola me llamo", nombre, "tengo", edad, "años", "y vivo en", pais);
+
